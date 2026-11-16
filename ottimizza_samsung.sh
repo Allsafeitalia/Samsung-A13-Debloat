@@ -17,8 +17,7 @@ PACKAGES=(
   "com.facebook.system"
   "com.facebook.services"
 
-  # Google TV, YouTube Music, app Google (ricerca/Assistente) e Play Store
-  "com.android.vending"
+  # Google TV, YouTube Music e app Google (ricerca/Assistente)
   "com.google.android.videos"
   "com.google.android.apps.youtube.music"
   "com.google.android.googlequicksearchbox"
@@ -37,6 +36,9 @@ PACKAGES=(
 
   # Game Launcher (does not remove Game Booster / thermal services)
   "com.samsung.android.game.gamehome"
+
+  # Samsung Galaxy Store
+  "com.sec.android.app.samsungapps"
 
   # Samsung Themes app and its theme center
   "com.samsung.android.themestore"
