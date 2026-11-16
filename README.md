@@ -61,7 +61,7 @@ Al termine, riavvia il telefono.
 
 - Facebook e relativi servizi preinstallati
 - Google TV, YouTube Music e app Google (ricerca/Assistente)
-- Google Play Store (disattivando la possibilità di installare e aggiornare app tramite Play Store)
+- Samsung Galaxy Store
 - Samsung Free
 - AR Zone, AR Emoji e componenti correlati
 - Dynamic Lock
@@ -77,7 +77,7 @@ Al termine, riavvia il telefono.
 
 - **One UI Home / Samsung Home**: non viene rimosso.
 - Game Booster e servizi di ottimizzazione dei giochi.
-- Telefonia, fotocamera, System UI, Google Play Services (diversi dal Play Store), servizi SIM/rete, Knox e aggiornamenti.
+- Telefonia, fotocamera, System UI, Google Play Store e Google Play Services, servizi SIM/rete, Knox e aggiornamenti.
 
 ## Ripristino
 
