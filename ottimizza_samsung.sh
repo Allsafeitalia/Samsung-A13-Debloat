@@ -17,9 +17,11 @@ PACKAGES=(
   "com.facebook.system"
   "com.facebook.services"
 
-  # Google TV e YouTube Music
+  # Google TV, YouTube Music, app Google (ricerca/Assistente) e Play Store
+  "com.android.vending"
   "com.google.android.videos"
   "com.google.android.apps.youtube.music"
+  "com.google.android.googlequicksearchbox"
 
   # Samsung Free
   "com.samsung.android.app.spage"
