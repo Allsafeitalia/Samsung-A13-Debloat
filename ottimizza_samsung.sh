@@ -17,8 +17,9 @@ PACKAGES=(
   "com.facebook.system"
   "com.facebook.services"
 
-  # Google TV
+  # Google TV e YouTube Music
   "com.google.android.videos"
+  "com.google.android.apps.youtube.music"
 
   # Samsung Free
   "com.samsung.android.app.spage"
@@ -42,8 +43,9 @@ PACKAGES=(
   # Samsung Video
   "com.samsung.android.video"
 
-  # OneDrive
+  # OneDrive e Samsung Archivio (My Files)
   "com.microsoft.skydrive"
+  "com.sec.android.app.myfiles"
 
   # Samsung Reminder
   "com.samsung.android.app.reminder"
