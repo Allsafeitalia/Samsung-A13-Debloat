@@ -1,0 +1,4 @@
+# Local device backups and logs (do not commit personal device state)
+samsung_a13_backup_packages.txt
+samsung_a13_debloat.log
+samsung_a13_restore.log
